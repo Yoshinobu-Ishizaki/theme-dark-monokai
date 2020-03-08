@@ -2,7 +2,7 @@
 
 A dark Monokai theme extension for JupyterLab. I use JLab quite extensively for development and always wanted a darker theme based on Monokai. If you like pitch black backgrounds with high contrast colours, this theme is for you.
 
-** Important: Dark Monokai is compatible with JupyterLab version > 1.0.0 **
+**_Important: Dark Monokai is compatible with JupyterLab version > 1.0.0_**
 
 [note for this branch] Changed the selection color a little bit brighter.
 
