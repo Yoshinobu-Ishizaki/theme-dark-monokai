@@ -283,8 +283,8 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   --jp-notebook-padding: 10px;
   --jp-notebook-select-background: var(--jp-layout-color1);
-  /* --jp-notebook-multiselected-color: rgba(33, 150, 243, 0.24); */
-  --jp-notebook-multiselected-color: rgba(33, 150, 243,0.75);
+  --jp-notebook-multiselected-color: rgba(33, 150, 243, 0.24);
+  /* --jp-notebook-multiselected-color: rgba(33, 150, 243,0.75); */
 
   /* The scroll padding is calculated to fill enough space at the bottom of the
   notebook to show one single-line cell (with appropriate padding) at the top
@@ -334,7 +334,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   --jp-editor-selected-background: var(--jp-layout-color2);
   /* --jp-editor-selected-focused-background: rgba(33, 150, 243, 0.24); */
-  --jp-editor-selected-focused-background: rgba(33, 150, 243,0.75);
+  --jp-editor-selected-focused-background: rgba(33, 150, 243,0.65);
   --jp-editor-cursor-color: var(--jp-ui-font-color0);
 
   /* Code mirror specific styles */
